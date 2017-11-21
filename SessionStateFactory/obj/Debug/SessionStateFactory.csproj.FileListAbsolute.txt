@@ -1,0 +1,5 @@
+D:\workspace\Demo\SessionStateDemo\SessionStateFactory\obj\Debug\SessionStateFactory.csprojResolveAssemblyReference.cache
+D:\workspace\Demo\SessionStateDemo\SessionStateFactory\bin\Debug\SessionStateFactory.dll
+D:\workspace\Demo\SessionStateDemo\SessionStateFactory\bin\Debug\SessionStateFactory.pdb
+D:\workspace\Demo\SessionStateDemo\SessionStateFactory\obj\Debug\SessionStateFactory.dll
+D:\workspace\Demo\SessionStateDemo\SessionStateFactory\obj\Debug\SessionStateFactory.pdb
